@@ -1,0 +1,7 @@
+As of today (23rd October, 2018), Google provided a provision of Universal URL which works quite efficiently on cross-platforms and thus, Google recommends this method.
+
+Syntax: https://www.google.com/maps/search/?api=1&query=<lat>,<lng>
+
+Example: https://www.google.com/maps/search/?api=1&query=28.6139,77.2090 (New Delhi, India)
+
+Documentation/Source : https://developers.google.com/maps/documentation/urls/guide
